@@ -1007,15 +1007,19 @@ kind-of@^4.0.0:
   dependencies:
     is-buffer "^1.1.5"
 
-libsodium-sumo@0.5.4, libsodium-sumo@^0.5.2:
+libsodium-sumo@0.7.6:
+  version "0.7.6"
+  resolved "https://registry.yarnpkg.com/libsodium-sumo/-/libsodium-sumo-0.7.6.tgz#935a80f95165a2f7d33a77bc8f1cde62130d93dc"
+
+libsodium-sumo@^0.5.2:
   version "0.5.4"
   resolved "https://registry.yarnpkg.com/libsodium-sumo/-/libsodium-sumo-0.5.4.tgz#08af4af945754ee9daf2de9d1385c9fc0e64cec0"
 
-libsodium-wrappers-sumo@^0.5.2:
-  version "0.5.4"
-  resolved "https://registry.yarnpkg.com/libsodium-wrappers-sumo/-/libsodium-wrappers-sumo-0.5.4.tgz#ee69f6c960965e0d7d65cc4282c2fb33485d06a2"
+libsodium-wrappers-sumo@^0.7.6:
+  version "0.7.6"
+  resolved "https://registry.yarnpkg.com/libsodium-wrappers-sumo/-/libsodium-wrappers-sumo-0.7.6.tgz#0fc9f422470d192370c4213f3c46e41ebda35e77"
   dependencies:
-    libsodium-sumo "0.5.4"
+    libsodium-sumo "0.7.6"
 
 lodash._baseassign@^3.0.0:
   version "3.2.0"
